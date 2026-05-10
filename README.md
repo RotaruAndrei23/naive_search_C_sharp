@@ -26,7 +26,7 @@ Pentru a compila și rula acest proiect, este necesar să aveți instalat:
 
 1. Clonați acest repository sau descărcați și dezarhivați codul sursă:
    ```bash
-   git clone <link-ul-repository-ului-tau>
+   git clone https://github.com/RotaruAndrei23/naive_search_C_sharp.git
 2. Deschideți un terminal în folderul rădăcină al proiectului (unde se află fișierul .csproj).
 
 3. Executați comanda:
